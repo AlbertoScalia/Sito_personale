@@ -139,8 +139,8 @@ export default function Bio() {
                                 <span className="font-mono text-xs text-zinc-500 mb-2 block">2025 - Presente</span>
                                 <h3 className="text-xl font-bold font-sans text-white mb-1">Master in Growth Marketing & Agenti AI</h3>
                                 <span className="text-sm font-medium text-accent block mb-3">start2impact</span>
-                                <p className="text-zinc-400 leading-relaxed">Un percorso multidisciplinare che unisce marketing strategico, UX/UI design e data analysis con un forte focus sull'intelligenza artificiale. Puoi dare un'occhiata al mio profilo e ai miei progetti  <a href="https://account.start2impact.it/profile/alberto-scalia
-" className="text-sm font-medium text-accent block mb-3" >qui.</a></p>
+                                <p className="text-zinc-400 leading-relaxed">Un percorso multidisciplinare che unisce marketing strategico, UX/UI design e data analysis con un forte focus sull'intelligenza artificiale. Puoi dare un'occhiata al mio profilo e ai miei progetti <a href="https://account.start2impact.it/profile/alberto-scalia
+" className="text-accent block mb-3" >qui.</a></p>
                             </motion.div>
 
                             <motion.div variants={itemVariants} className="relative">
